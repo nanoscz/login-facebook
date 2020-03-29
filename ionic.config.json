@@ -1,0 +1,7 @@
+{
+  "name": "login-facebook-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
